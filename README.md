@@ -3,7 +3,7 @@
 
 # Иван Рекуха · `Начинающий разработчик`
 
-*Моя цель — понимать код и самостоятельно писать его.*
+*Моя цель - понимать код и самостоятельно писать его.*
 
 [![Подписчики GitHub](https://img.shields.io/github/followers/looyni?style=flat&logo=github&label=Followers&color=db2777&labelColor=18181b)](https://github.com/looyni?tab=followers)
 [![Звёзды моих проектов](https://img.shields.io/github/stars/looyni?affiliations=OWNER&style=flat&logo=github&label=Stars&color=be185d&labelColor=18181b)](https://github.com/looyni?tab=repositories)
